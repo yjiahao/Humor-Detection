@@ -12,3 +12,8 @@ I also learnt how to save my model on HuggingFace, as well as how to load it fro
 ```pip install -r requirements.txt```
 
 You should be able to run the cells in all of the notebooks.
+
+## To take this project further, I can:
+
+1. Develop an API to call my models' predictions programmatically.
+2. Experiment with other zero-shot LLMs to check if they perform better than my current models.
